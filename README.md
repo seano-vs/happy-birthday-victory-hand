@@ -59,3 +59,5 @@ Or, you could just take the search term "string nail art circle" and search your
 Now that's done, put it somewhere! If you're proud of it, put it somewhere others can see it! If you aren't pretend like you are forever working on your unfinished masterpiece and hide it somewhere in shame. Follow your own artistic process!
 
 We hope you had as much fun making this as Kayla did. And, of course, as I did helping Kayla. Here's a picture of us having fun together but our faces are censored since this is a public git repo 🥰
+
+![beautiful fucking humans god damn](images/luvurfriends.jpg)
