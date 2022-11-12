@@ -2,7 +2,7 @@
 
 # HAPPY BIRTHDAY ✌️!!!!
 
-Kayla and I (mostly Kayla) have prepared for you a kit to build a cool piece of artwork. Now you can solder and hammer your way to your own unique form of artistic expression! Let's make some art so cool that one older art teacher you had would have his brain wrinkled at the thought!
+Kayla and I have prepared for you a kit to build a cool piece of artwork. Now you can solder and hammer your way to your own unique form of artistic expression! Let's make some art so cool that one older art teacher you had would have his brain wrinkled at the thought!
 
 So the general idea for this is:
 
@@ -28,60 +28,19 @@ Maybe tape them in a circle around the box? Or whatever. Who cares, this is a gi
 
 ## The ARDIUNIO!
 
-Microcontroller: Arduino Nano (I fucked up and accidentally got a 3.3V one but it seems to still work with my test kit so I think it'll be okkkkkkayyyy lol) 
+We got you an Arduino Nano! We fucked up a bit cause we got you one that runs at 3.3V instead of 5V BUTTTT we tried it out and it still runs the LEDs just fine, so we are going to pretend like it was built for it :P. If you want to get some extra info on the board we got you go here: https://docs.arduino.cc/hardware/nano
 
-Link to Tutorial/Overview: 
+Ok...now let's SET IT UP! You'll need to first install the Arduino IDE by going here: https://www.arduino.cc/en/software#future-version-of-the-arduino-ide  
 
-https://docs.arduino.cc/hardware/nano
+If you have a windows machine then you'll need to download the driver for the Nano cause we got that cheap shizz from China that used a different chip than our comps are used to recognizing. Here's where you can download it: https://www.wch.cn/download/CH341SER_EXE.html 
 
-Install the Arduino IDE: 
+Definitely looks sketch, mostly cause you wont be able to understand any of it, but we tried it out and it works great. We got the instructions from this instructable: https://www.instructables.com/Arduino-Nano-USB-Not-Recognizing-Fix/ if you're still sketched out by it you can also program it at our place or just use the starter code that we already programmed on it! 
 
-https://www.arduino.cc/en/software#future-version-of-the-arduino-ide 
+To get the code 
 
-If you have a Windows OS (of course you do Microsoft) then you will have to download the driver from here
+Wow, isn't it fucking fantastic that Kayla provided some sample code to play with! Well, here it is in NAMETHISFILELATER.WHATEVER.
 
-https://www.wch.cn/download/CH341SER_EXE.html
-
-It looks super sketch but this is the instructable that lead me to it and it worked for me. 
-
-https://www.instructables.com/Arduino-Nano-USB-Not-Recognizing-Fix/
-
-You can also program it at our place if you don't wanna put this sketch driver on your comp lol. 
-
-Install FastLED Library: 
-
-    Open Arduino software and then go to "Tools" --> "Manage Libraries"
-    Type in the search bar "fastled"  and then click "Install"
-
-![so faast](images/fastled.png)
-
-Once you have the Arduino IDE installed and the driver to access the nano installed, you can program it. To do this you'll want to do the following: 
-
-- Plug in the Arduino 
-- Open the IDE and click on "Tools" --> "Board" --> select Arduino Nano from the drop down
-- Select the Port that the microcontroller is hooked up to "Tools" --> "Port" --> "COM9" 
-- - (yours will be a diff number but whatever port appears/disappears as you plug and unplug the arduino is the one to choose) 
-- Open one of the examples that downloaded with the library by going to "File" --> "Examples" -->  "FastLED" --> Choose one :D...
-- - Cyclon is a good starter one
-- In the code you'll want to make sure you select/set the right pin number.
-- - i.e. the one that you hook the data pin of the LEDs up to. 
-- - You have to choose a PWM pin --> pulse width modulated signal pin which can send the square wave needed to run the LED strip. 
-- - Pin 2 is one of these pins but you can also check the documentation in the link above to see which other pins work. 
-- The second thing you need to set in the code is the number of LEDs I had 134 in ours so you can try this to start and modify (or you could count haha). 
-
-![lol screenshot of text](images/fastledcode.png)
-
-
-Then you'll be set to download the code!  
-
-The two buttons are the check mark button (compiles the code) and the right arrow button (compiles then downloads the code). You can just use the right arrow button cause it'll compile then download...but if you use the check mark button it will not download the code; it'll just check if it can compile it. 
-- The ColorPalette example is also super dope :D 
-- You might also check out the FastLED Library documentation on GitHub: 
-- - https://github.com/FastLED/FastLED/wiki/Basic-usage
-
-## Solder the Arduino!
-
-
+...etc etc...
 
 ## The NAILS
 
