@@ -82,6 +82,10 @@ The two buttons are the check mark button (compiles the code) and the right arro
 
 So if you wanna do this right and you wanna go hard then you gotta make it permanent...or at least partially. We got you a lil PCB that you might cut down to be a bit smaller, and we snapped you off some pin headers. We gave you pin headers in case you didn't wanna solder the Arduino directly onto the board, but you could always just solder that shit downnnnn! Once you figure out what you wanna do with the Arduino mounting, solder those three wires into the GND, Vcc/3.3V, and data pin that you've chosen. 
 
+![PCB to get reallll](images/board.jpg)
+
+![Pinheaders if you wanna move that shizz in and outttt](images/headers.jpg)
+
 Once everything is soldered, you can use some hot glue to stick it to the back of your hex thanggg. What we forgot to get you is a longer power cord so that you can just plug this shit into the wall. You can use any USB-B Mini chord and a wall wart to plug it in. Just a caution, if you get a cord without data then you won't be able to use that cord for programming, but you will be able to use it for powering it! 
 
 ## The NAILS
