@@ -2,7 +2,7 @@
 
 # HAPPY BIRTHDAY ✌️!!!!
 
-Kayla and I have prepared for you a kit to build a cool piece of artwork. Now you can solder and hammer your way to your own unique form of artistic expression! Let's make some art so cool that one older art teacher you had would have his brain wrinkled at the thought!
+Kayla and I have prepared for you a kit to build a cool piece of ELECTRONIC ART!!! Now you can solder, program, hammer, and string your way to your own unique form of artistic expression! Let's make some art so cool that one older art teacher you had would have his brain wrinkled at the thought!
 
 So the general idea for this is:
 
